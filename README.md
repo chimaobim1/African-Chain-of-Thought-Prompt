@@ -4,10 +4,11 @@ A reusable, African-contextualized chain-of-thought prompt engineering template 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   
 ![CI](https://github.com/chimaobim1/African-Chain-of-Thought-Prompt/actions/workflows/ci.yml/badge.svg)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.9999999.svg)](https://doi.org/10.5281/zenodo.9999999)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17088783.svg)](https://doi.org/10.5281/zenodo.17088783)
 ![Build Status](https://github.com/chimaobim1/African-Chain-of-Thought-Prompt/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg) 
 ---
+DOI: 10.5281/zenodo.17088783
 
 ## 📌 Overview  
 This repository provides a **structured, reusable prompt engineering template** for Large Language Models (LLMs).  
