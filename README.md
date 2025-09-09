@@ -62,3 +62,13 @@ Evidence required: yes
 ---
 
  
+---
+
+## 📜 License  
+This project is released under the [MIT License](LICENSE).  
+
+---
+
+## ✍️ Author  
+Maintained by **Obi Chima Stanley**.  
+
