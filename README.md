@@ -4,7 +4,7 @@ A reusable, African-contextualized chain-of-thought prompt engineering template 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 ![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)  
-![CI](https://github.com/your-username/African-Chain-of-Thought-Prompt/actions/workflows/ci.yml/badge.svg)  
+![CI](https://github.com/chimaobim1/African-Chain-of-Thought-Prompt/actions/workflows/ci.yml/badge.svg)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.9999999.svg)](https://doi.org/10.5281/zenodo.9999999)  
 
 ---
